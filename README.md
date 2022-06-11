@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monty-poddar
 - 👀 I’m interested in everything around me.
-- 🌱 I’m currently learning Data Analysis.
+- 🌱 I’m currently learning Big Data.
 - 💞️ I’m looking to collaborate on Kaggle.
 - 📫 How to reach me - Mail me.
 
